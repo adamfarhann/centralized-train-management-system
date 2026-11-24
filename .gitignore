@@ -23,3 +23,6 @@
 /app/Config/core.php
 /app/Config/database.php
 /vendors/*
+# Protect database configuration
+/config/connection.php
+/config/test_db.php
